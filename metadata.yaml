@@ -1,0 +1,27 @@
+_repo: The-Mahabharata-of-Krishna-Dwaipayana-Vyasa-Volume-4Books-13-14-15-16-17-and-18_15477
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Ganguli, Kisari Mohan
+    gutenberg_agent_id: '2563'
+    url: http://www.gutenberg.org/2009/agents/2563
+    wikipedia: http://en.wikipedia.org/wiki/Kisari_Mohan_Ganguli
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2005-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15477'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PK'
+- !lcsh 'Epic literature, Sanskrit'
+title: 'The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 4
+
+  Books 13, 14, 15, 16, 17 and 18'
+url: http://www.gutenberg.org/ebooks/15477
