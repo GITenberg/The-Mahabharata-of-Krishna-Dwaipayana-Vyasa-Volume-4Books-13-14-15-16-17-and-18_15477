@@ -10,6 +10,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15477#The-Mahabharata-of-Krishna-Dwaipayana-Vyasa-Volume-4Books-13-14-15-16-17-and-18
 gutenberg_issued: '2005-03-26'
 gutenberg_type: Text
 identifiers:
